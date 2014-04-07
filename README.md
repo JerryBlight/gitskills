@@ -1,3 +1,6 @@
+bb
+
+AA
 conflict test
 gitskills
 =========

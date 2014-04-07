@@ -1,4 +1,4 @@
-conflict test 2
+conflict test
 gitskills
 =========
 creating new branch
